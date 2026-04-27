@@ -1,0 +1,3 @@
+config.properties   ← keeps credentials out of Git
+*.class             ← keeps compiled files out of Git
+*.jar               ← keeps JAR files out of Git
